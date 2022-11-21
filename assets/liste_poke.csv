@@ -1,0 +1,70 @@
+Nom,Id,Element,Pdv,Attaque,Degat,Tauxc
+Bulbizarre,1,plante,40,Vampigraine,20,5
+Herbizarre,2,poison,60,Poudre Toxik,20,5
+Florizarre,3,plante,100,Lance-Soleil,40,5
+Salamèche,4,feu,50,Griffe,10,5
+Reptincel,5,feu,80,Tranche,30,5
+Dracaufeu,6,feu,120,Danseflamme,40,5
+Carapuce,7,eau,40,Écume,10,5
+Carabaffe,8,eau,70,Morsure,40,5
+Tortank,9,eau,100,Hydrocanon,30,15
+Chenipan,10,plante,40,Sécrétion,10,50
+Chrysacier,11,plante,70,Para-spore,20,50
+Aspicot,13,poison,40,Dard-Venir,10,5
+Coconfort,14,poison,80,Poudre Toxik,20,5
+Dardargnan,15,poison,80,Dard-Venin,40,5
+Roucool,16,normal,40,Cyclone,10,5
+Roucoups,17,normal,60,Cyclone,20,5
+Rattata,19,normal,30,Morsure,20,5
+Rattatac,20,normal,60,Morsure,30,5
+Pikachu,25,foudre,40,Secousse Tonnerre,15,50
+Raichu,26,foudre,80,Fatal-Foudre,30,50
+Sabelette,27,sol,40,Jet de Sable,10,5
+Nidoran,32,psy,40,Chanc’ Korne,30,5
+Nidorino,33,psy,60,Empal’ Korne,50,5
+Nidoking,34,psy,90,Mania,30,5
+Mélofée,35,normal,40,Berceuse,15,50
+Goupix,37,feu,50,Onde Folie,20,30
+Feunard,38,feu,80,Déflagration,40,5
+Taupiqueur,50,sol,30,Jet de boue,30,75
+Triopikeur,51,sol,70,Séisme,40,20
+Caninos,58,feu,60,Intimidation,20,5
+Arcanin,59,feu,100,Lance-Flamme,50,5
+Ptitard,60,eau,40,Pistolet à O,10,20
+Têtarte,61,eau,60,Torgnoles,30,5
+Tartard,62,eau,90,Lessiveuse,45,5
+Abra,63,psy,30,Choc Psy,20,5
+Kadabra,64,psy,60,Super Psy,50,5
+Alakazam,65,psy,80,Onde Folie,30,5
+Machoc,66,combat,50,Balayage,20,5
+Machopeur,67,combat,80,Poing-Karaté,50,5
+Mackogneur,68,combat,100,Frappe Atlas,60,5
+Ponyta,77,feu,40,Queue de flamme,30,5
+Magneti,81,acier,40,Destruction,40,5
+Magneton,82,acier,60,Cage-éclair,50,30
+Canarticho,83,normal,50,Coup de casserole,30,5
+Doduo,84,normal,50,Furie,15,50
+Otaria,86,eau,60,Coup d'Boule,15,20
+Lamantine,87,eau,80,Onde Boréale,50,5
+Fantominus,92,tenebre,30,Gaz Soporifique,25,5
+Spectrum,93,tenebre,60,Dévorêve,50,5
+Onyx,95,sol,90,Jet-Pierres,10,50
+Soporifik,96,psy,50,Onde Folie,10,50
+Voltorbe,100,foudre,40,Charge,10,50
+Électrode,101,foudre,80,Choc Électrique,50,5
+Tygnon,107,combat,70,Punch Spécial,40,5
+Smogo,109,poison,50,Gaz infect,10,50
+Leveinard,113,normal,120,Damoclès,80,5
+Saquedeneu,114,poison,50,Poudre Toxik,20,10
+Stari,120,eau,40,Gifle,20,10
+Staross,121,eau,60,Étoile gelante,30,10
+Lippoutou,124,psy,70,Yoga,20,50
+Élektek,125,foudre,70,Poing-Éclair,30,50
+Magmar,126,feu,50,Lance-Flamme,50,5
+Magicarpe,129,eau,30,Nageoire,10,50
+Léviator,130,eau,100,Draco-Rage,50,5
+Porygon,137,normal,30,Adaptation,1,75
+Élector,145,foudre,90,Fatal-Foudre,100,5
+Minidraco,147,dragon,40,Écras' Face,20,50
+Draco,148,dragon,80,Souplesse,35,50
+Mewtwo,150,psy,75,Psyko,60,5
